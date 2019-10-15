@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-06-19_0657",
+    "name": "SampleWedding1",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -47,13 +47,17 @@
     ],
     "uniqCompNum": 30,
     "versionPublish": "4.10.8",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/p-muslim-wedding-couple-128x169.png",
+    "noImageResize": "",
+    "siteUrl": "undefined",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Basyar &amp; Muhammad",
+        "title": "Samplewedding1",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
